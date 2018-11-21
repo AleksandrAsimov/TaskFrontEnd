@@ -1,0 +1,196 @@
+{
+  "data": [0, "sdasd", [{
+        "company_name": "Ralph Lauren",
+        "cotton": 5005,
+        "flax": 937,
+        "wool": 9285,
+        "id": 1
+      },
+      {
+        "company_name": "Nike",
+        "cotton": 2404,
+        "wool": 1669,
+        "silk": 2472,
+        "id": 2
+      },
+      {
+        "company_name": "Tommy Hilfiger",
+        "flax": 9074,
+        "silk": 415,
+        "id": 3
+      },
+      {
+        "company_name": "Hugo Boss",
+        "cotton": 3896,
+        "wool": 7150,
+        "silk": 8443,
+        "id": 4
+      },
+      null, "212123"
+    ],
+    {
+      "company_name": "Levi Strauss & Co.",
+      "cotton": 8505,
+      "wool": 8390,
+      "silk": 2957,
+      "id": 5
+    },
+    {
+      "company_name": "Burberry",
+      "flax": 1771,
+      "wool": 4394,
+      "silk": 2743,
+      "id": 6
+    },
+    {
+      "company_name": "Gucci",
+      "wool": 4328,
+      "silk": 1852,
+      "id": 7
+    },
+    {
+      "company_name": "Lacoste",
+      "flax": 6237,
+      "wool": 5904,
+      "id": 8
+    },
+    {
+      "company_name": "Adidas",
+      "cotton": 8615,
+      "flax": 1075,
+      "silk": 664,
+      "id": 9
+    },
+    349234,
+    {
+      "company_name": "The North Face",
+      "cotton": 2826,
+      "wool": 4152,
+      "silk": 8421,
+      "id": 10
+    },
+    {
+      "company_name": "Versace",
+      "id": 11
+    },
+    [
+      [{
+          "company_name": "Diesel",
+          "flax": 841,
+          "wool": 5452,
+          "id": 12
+        },
+        {
+          "company_name": "Calvin Klein",
+          "cotton": 9100,
+          "silk": 8099,
+          "id": 13
+        },
+        {
+          "company_name": "Armani",
+          "cotton": 641,
+          "wool": 6677,
+          "silk": 6453,
+          "id": 14
+        },
+        {
+          "company_name": "Prada",
+          "cotton": 1352,
+          "flax": 3345,
+          "id": 15
+        },
+        {
+          "company_name": "Zara",
+          "cotton": 8579,
+          "flax": 1922,
+          "wool": 4380,
+          "silk": 8549,
+          "id": 16
+        },
+        {
+          "company_name": "Louis Vuitton",
+          "cotton": 8396,
+          "flax": 6652,
+          "id": 17
+        }, "asdasd", 932345,
+        {
+          "company_name": "Vans",
+          "cotton": 8011,
+          "silk": 5474,
+          "id": 18
+        }
+      ],
+      {
+        "company_name": "H&M",
+        "silk": 7605,
+        "id": 19
+      },
+      {
+        "company_name": "Under Armour",
+        "flax": 4010,
+        "wool": 9400,
+        "id": 20
+      },
+      {
+        "company_name": "Timberland",
+        "wool": 583,
+        "silk": 3513,
+        "id": 21
+      }
+    ],
+    {
+      "company_name": "Supreme",
+      "flax": 1662,
+      "silk": 9503,
+      "id": 22
+    },
+    {
+      "company_name": "Dolce & Gabbana",
+      "cotton": 2986,
+      "id": 23
+    },
+    {
+      "hi": "im not dat obj dat u need"
+    },
+    {
+      "company_name": "Banana Republic",
+      "cotton": 1145,
+      "wool": 4602,
+      "id": 24
+    },
+    {
+      "company_name": "Champion",
+      "id": 25
+    },
+    {
+      "company_name": "Michael Kors",
+      "cotton": 4532,
+      "flax": 2538,
+      "id": 26
+    },
+    {
+      "company_name": "Fred Perry",
+      "cotton": 6413,
+      "flax": 3732,
+      "silk": 9312,
+      "id": 27
+    },
+    {
+      "company_name": "Puma SE",
+      "flax": 7752,
+      "id": 28
+    },
+    {
+      "company_name": "Converse",
+      "flax": 1510,
+      "wool": 2631,
+      "silk": 8150,
+      "id": 29
+    },
+    {
+      "company_name": "Patagonia, Inc.",
+      "silk": 9145,
+      "id": 30
+    }
+  ]
+}
